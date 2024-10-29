@@ -1,1 +1,1 @@
-th eproject moto is to convert normall text to morse code
+the project moto is to convert  text to morse code
